@@ -1,0 +1,81 @@
+Criado e desenvolvido por Rodrigo Henriques.
+
+How to Login 
+User: rodrigo
+password: 12345
+
+-------------------------------------------------------------------------------------------------------------------
+Versão 0.1 
+02/05/2025 - [19:12]
+
+MenuScreen Finalizado, não devo alterar mais nada em principio ( devo colocar apenas uns icons )
+
+Próximos Passos
+Impletação das telas:
+
+	ServicesScreen: Lista de serviços/barbearias
+	BookingScreen: Calendário + seleção de barbeiro
+	ReviewsScreen: Avaliações dos clientes
+	HelpScreen: Contato/Creditos
+
+-------------------------------------------------------------------------------------------------------------------
+Versão 0.25 
+02/05/2025 - [22:15]
+
+Implementado AuthScreen
+
+Proximas coisas:
+	Resto dos Frames
+	Implementar DataBase
+	Icons
+-------------------------------------------------------------------------------------------------------------------
+Versão 0.3
+02/05/2025 - [23:49]
+
+Icons adicionados ( Ainda não no design mas já tenho uma ideia )
+MenuScreen Updated ( Novo Design )
+Criação da database ( já funciona certinho )
+Frames já interagem entre os mesmo 
+
+Próximos Passos
+	Continuação do Design dos seguintes Frames:
+		ServicesScreen: Lista de serviços/barbearias
+		BookingScreen: Calendário + seleção de barbeiro
+		ReviewsScreen: Avaliações dos clientes
+		HelpScreen: Contato/Creditos
+-------------------------------------------------------------------------------------------------------------------
+Versão 0.4
+03/05/2025 - [19:58]
+
+ServicesScreen basicamente pronto ( ainda vou mexer no design acho eu )
+
+Próximos Passos
+	Continuação do Design dos seguintes Frames:
+		BookingScreen: Calendário + seleção de barbeiro
+		ReviewsScreen: Avaliações dos clientes
+		HelpScreen: Contato/Creditos
+-------------------------------------------------------------------------------------------------------------------
+Versão 0.46
+03/05/2025 - [20:47]
+
+BookingScreen basicamente pronto ( ainda vou mexer no design acho eu )
+
+Próximos Passos
+	Continuação do Design dos seguintes Frames:
+		ReviewsScreen: Avaliações dos clientes
+		HelpScreen: Contato/Creditos
+
+( As DB estão me a dar dor de cabeça )
+-------------------------------------------------------------------------------------------------------------------
+Versão 0.5
+04/05/2025 - [17:03]
+
+Correção de bugs ( Register já funciona )
+jFrames separados agora existe 1 para Clients e outro para Admins/Barbeiros. 
+
+Próximos Passos
+	Continuação do Design dos seguintes Frames:
+		BarberScheduleScreen: Agendamentos dos Clientes para os Barbeiros
+		ReviewsScreen: Avaliações dos clientes ( 20 no trabalho final )
+		HelpScreen: Contato/Creditos
+-------------------------------------------------------------------------------------------------------------------

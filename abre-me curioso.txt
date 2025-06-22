@@ -1,0 +1,14 @@
+abre-me curioso
+O que falta? O que está feito.
+
+Login - FEITO
+Menu para Clientes - FEITO
+Menu para Barbeiros / Admins - FEITO
+Agendar - FEITO
+Serviços - FEITO
+
+Falta 
+
+Menu para ver os Agendamentos
+Menu de Ajuda
+Reviews / Avaliações 
